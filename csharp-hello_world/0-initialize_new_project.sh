@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-mkdir 0-new_project | cd 0-new_project | dotnet new console | touch 0-new_project.csproj | touch Program.cs
+dotnet new console -o 0-new_project
