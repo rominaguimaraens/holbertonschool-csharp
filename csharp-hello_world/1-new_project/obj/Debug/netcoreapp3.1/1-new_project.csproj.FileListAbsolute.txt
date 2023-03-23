@@ -1,0 +1,14 @@
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.exe
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.deps.json
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.runtimeconfig.json
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.runtimeconfig.dev.json
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.dll
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\bin\Debug\netcoreapp3.1\1-new_project.pdb
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.csproj.AssemblyReference.cache
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.AssemblyInfoInputs.cache
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.AssemblyInfo.cs
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.csproj.CoreCompileInputs.cache
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.dll
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.pdb
+Z:\Users\Ro\Documents\GitHub\holbertonschool-csharp\csharp-hello_world\1-new_project\obj\Debug\netcoreapp3.1\1-new_project.genruntimeconfig.cache
