@@ -1,12 +1,19 @@
 ﻿using System;
 
-namespace _10_print_line
+class Line
 {
-    class Program
+    public static void PrintLine(int length)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+        int i;
+
+        if (length == 0) {
+            Console.WriteLine();
+            return;
         }
+
+        for(i = 0; i < length; i++) {
+            Console.Write("_");
+        }
+        Console.WriteLine();
     }
 }
