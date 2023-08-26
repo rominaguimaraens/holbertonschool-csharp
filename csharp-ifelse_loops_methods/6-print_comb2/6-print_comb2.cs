@@ -6,7 +6,19 @@ namespace _6_print_comb2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int i, j;
+            for (i = 0; i < 9; i++)
+            {
+                for (j = i + 1; j < 10; j++)
+                {
+                    if (i == 8 && j == 9)
+                    {
+                        Console.WriteLine("89");
+                        return;
+                    }
+                    Console.Write("{0}{1}, ", i, j);
+                }
+            }
         }
     }
 }
